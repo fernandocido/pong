@@ -1,7 +1,7 @@
 # pong
 ![screenshot](https://github.com/fernandocido/pong/blob/main/pong-screenshot.jpg)
 
-Trying to replicate a Pong Game with JavaScript to be played at:
+Trying to replicate a [Pong Game](https://en.wikipedia.org/wiki/Pong) with JavaScript to be played at:
 
 [p5js](https://editor.p5js.org/)
 
